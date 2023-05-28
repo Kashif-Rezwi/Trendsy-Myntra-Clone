@@ -22,7 +22,7 @@
 Developers Name : 
  
 Shalini Singh </br>
-Kashif Rezvi </br>
+Kashif Rezwi </br>
 Abhijeet Kale </br>
 Madhukar Kakade </br>
 Ganesh Bahire </br>
